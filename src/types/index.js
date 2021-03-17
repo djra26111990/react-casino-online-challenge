@@ -1,0 +1,6 @@
+export const LOGIN = 'LOGIN'
+export const LOGOUT = 'LOGOUT'
+export const GET_USER = 'GET_USER'
+export const ADD_REGISTER = 'ADD_REGISTER'
+export const GET_DATA = 'GET_DATA'
+export const DEBUG_SPIN = 'DEBUG_SPIN'
